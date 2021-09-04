@@ -20,36 +20,53 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body" data-aos="fade-up">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
-              <br />
-              <br />I am fluent in classics like
+              A passionate Developer, with strong
               <i>
-                <b className="purple"> Javascript. </b>
+                <b className="purple">&nbsp; administrative &nbsp;</b>
               </i>
-              <br />
-              <br />
-              My field of Interest's are building new &nbsp;
+              and
               <i>
-                <b className="purple">Web Technologies and Products </b> and
-                also in areas related to
-                <b className="purple">
-                  Deep Learning and Natural Launguage Processing.
-                </b>
+                <b className="purple">&nbsp;communication skills </b>
               </i>
+              good{" "}
+              <i>
+                <b className="purple">&nbsp; attention to detail &nbsp;</b>
+              </i>
+              and with the ability to write
+              <i>
+                <b className="purple">&nbsp; efficient code &nbsp;</b>
+              </i>
+              using
+              <br></br>
+              <i>
+                <b className="purple">MERN Stack &nbsp;</b>
+              </i>
+              🤷‍♂️
+              <br />
+              <br />I have been developing Web Apps for over
+              <i>
+                <b className="purple">&nbsp; 6 months</b>
+              </i>
+              . Well versed in coding using
+              <i>
+                <b className="purple">&nbsp; Javascript, React &nbsp;</b>
+              </i>
+              and its frameworks
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
+              As I
               <i>
-                <b className="purple">
-                  Modern Javascript Library and Frameworks
-                </b>
+                <b className="purple">&nbsp; grow &nbsp;</b>
               </i>
-              &nbsp; like
+              and
               <i>
-                <b className="purple"> React.js </b>
+                <b className="purple">&nbsp; flourish &nbsp;</b>
               </i>
+              as a Developer, one thing which keeps me going is my
+              <i>
+                <b className="purple">&nbsp; curiousness &nbsp;</b>
+              </i>
+              for discovering new things every day.
             </p>
           </Col>
           <Col
