@@ -4,7 +4,7 @@ import Particle from "../Particle";
 import Github from "./Github";
 import Techstack from "./Techstack";
 import Aboutcard from "./AboutCard";
-import laptopImg from "../../Assets/about.png";
+// import laptopImg from "../../Assets/about.png";
 import Toolstack from "./Toolstack";
 import Aos from "aos";
 import "aos/dist/aos.css";
@@ -38,11 +38,15 @@ function About() {
           </Col>
           <Col
             md={5}
-            style={{ paddingTop: "120px", paddingBottom: "50px" }}
+            style={{ paddingBottom: "60px" }}
             className="about-img"
             data-aos="fade-down"
           >
-            <img src={laptopImg} alt="about" className="img-fluid" />
+            <img
+              src="https://ais-10072.kxcdn.com/wp-content/uploads/2019/08/Hire-Full-Stack-Developer.png"
+              alt="about"
+              className="img-fluid"
+            />
           </Col>
         </Row>
         <h1 className="project-heading" data-aos="fade-up">

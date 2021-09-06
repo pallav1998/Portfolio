@@ -15,7 +15,12 @@ function Home2() {
     <Container fluid className="home-about-section" id="about">
       <Container>
         <Row>
-          <Col md={8} className="home-about-description" data-aos="fade-right">
+          <Col
+            md={8}
+            style={{ marginTop: "4vw" }}
+            className="home-about-description"
+            data-aos="fade-right"
+          >
             <h1 style={{ fontSize: "2.6em" }}>
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
@@ -76,11 +81,16 @@ function Home2() {
             style={{ marginTop: "-32px" }}
           >
             <Tilt>
-              <img src="pallav.JPG" className="img-fluid" alt="avatar" />
+              <img
+                style={{ height: "30vw" }}
+                src="pallav.JPG"
+                className="img-fluid"
+                alt="avatar"
+              />
             </Tilt>
           </Col>
         </Row>
-        <Row>
+        <Row style={{ marginTop:"5vh" }}>
           <Col md={12} className="home-about-social" data-aos="fade-up">
             <h1>FIND ME ON</h1>
             <p>

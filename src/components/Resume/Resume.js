@@ -21,7 +21,11 @@ function Resume() {
           style={{ justifyContent: "center", position: "relative" }}
           data-aos="fade-up"
         >
-          <Button variant="primary" href={pdf} target="_blank">
+          <Button
+            style={{ width: "20vh", margin: "2vw 0" }}
+            variant="primary"
+            href={pdf}
+          >
             <AiOutlineDownload />
             &nbsp;Download CV
           </Button>
@@ -77,7 +81,11 @@ function Resume() {
           style={{ justifyContent: "center", position: "relative" }}
           data-aos="fade-down"
         >
-          <Button variant="primary" href={pdf}>
+          <Button
+            style={{ width: "20vh", margin: "4vw 0" }}
+            variant="primary"
+            href={pdf}
+          >
             <AiOutlineDownload />
             &nbsp;Download CV
           </Button>
