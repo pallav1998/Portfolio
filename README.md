@@ -9,12 +9,10 @@
 4. Particals
 5. Aos
 
-<!-- ## Screenshots
-### Landing Page
-![alt text](https://github.com/pallav1998/Monster_Project/blob/master/screenshort/Capture.PNG)
-### Footer
-![alt text](https://github.com/pallav1998/Monster_Project/blob/master/screenshort/Capture2.PNG)
-### Login Page
-![alt text](https://github.com/pallav1998/Monster_Project/blob/master/screenshort/Capture1.PNG)
-### Job Search Page
-![alt text](https://github.com/pallav1998/Monster_Project/blob/master/screenshort/Capture3.PNG) -->
+## Screenshots
+### Home Page
+![alt text](https://github.com/pallav1998/Portfolio/blob/master/Images/Home.PNG)
+### About Page
+![alt text](https://github.com/pallav1998/Portfolio/blob/master/Images/About.PNG)
+### Projects Page
+![alt text](https://github.com/pallav1998/Portfolio/blob/master/Images/Projects.PNG)
