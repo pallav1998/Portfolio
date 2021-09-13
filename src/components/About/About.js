@@ -50,7 +50,7 @@ function About() {
           </Col>
         </Row>
         <h1 className="project-heading" data-aos="fade-up">
-          Professional <strong className="purple">Skillset </strong>
+          Tech <strong className="purple">Stack </strong>
         </h1>
         <br /> <br />
         <div data-aos="fade-down">

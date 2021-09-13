@@ -7,12 +7,11 @@ function Type() {
       options={{
         strings: [
           "Passionate Developer",
-          "Electronics Engineer",
           "MERN Stack Developer",
         ],
         autoStart: true,
         loop: true,
-        deleteSpeed: 100,
+        deleteSpeed: 200,
       }}
     />
   );

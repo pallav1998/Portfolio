@@ -316,7 +316,7 @@ html {
 
 .home-about-section {
   position: relative;
-  padding-bottom: 70px !important;
+  padding-bottom: 100px !important;
   padding-top: 70px !important;
 }
 
@@ -442,8 +442,8 @@ html {
 /* --------- */
 .project-section {
   position: relative !important;
-  padding-top: 150px !important;
-  padding-bottom: 30px !important;
+  padding-top: 130px !important;
+  padding-bottom: 40px !important;
   background-image: var(--section-background-color) !important;
 }
 

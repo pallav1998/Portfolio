@@ -31,18 +31,17 @@ function Home2() {
               </i>
               and
               <i>
-                <b className="purple">&nbsp;communication skills </b>
+                <b className="purple">&nbsp;communication skills &nbsp;</b>
               </i>
-              good{" "}
+              with good
               <i>
                 <b className="purple">&nbsp; attention to detail &nbsp;</b>
               </i>
-              and with the ability to write
+              and ability to write
               <i>
                 <b className="purple">&nbsp; efficient code &nbsp;</b>
               </i>
-              using
-              <br></br>
+              using &nbsp;
               <i>
                 <b className="purple">MERN Stack &nbsp;</b>
               </i>
@@ -90,7 +89,7 @@ function Home2() {
             </Tilt>
           </Col>
         </Row>
-        <Row style={{ marginTop:"5vh" }}>
+        <Row style={{ marginTop: "5vh" }}>
           <Col md={12} className="home-about-social" data-aos="fade-up">
             <h1>FIND ME ON</h1>
             <p>
@@ -129,14 +128,15 @@ function Home2() {
               </li>
             </ul>
             <h3>
-              Contact No:
+              Contact Details:
               <p
                 href="tel:+9258666267"
                 style={{
                   color: "purple",
                 }}
               >
-                +919258666267
+                +919258666267 <br />
+                jain.pallav1998@gmail.com
               </p>
             </h3>
             <br /> <br />

@@ -8,9 +8,11 @@ import { Col } from "react-bootstrap";
 function ProjectCards(props) {
   return (
     <Card className="project-card-view">
-      <br></br>
       <Card.Title>
-        <a href={props.sitelink} style={{ color: "whitesmoke" }}>
+        <a
+          href={props.sitelink}
+          style={{ color: "whitesmoke", fontSize: "30px", lineHeight: "2" }}
+        >
           {props.title}
         </a>
       </Card.Title>
