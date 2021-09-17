@@ -28,7 +28,7 @@ function Projects() {
             <ProjectCard
               imgPath={hotwire}
               title="Hotwire"
-              description="Hotwire is a well known travel website that offers airline tickets, hotel rooms, rental cars, and vacation packages. Trying to Developed a look alike of it, Focusing mainly on searching for hotels based on city, categorizing them with rating. Done in collaboration with 4 members, under a week."
+              description="Hotwire is a well known travel website that offers airline tickets, hotel rooms, rental cars, and vacation packages. Trying to Developed a look alike of it, Focusing mainly on searching for hotels based on city, categorizing them with rating. Tech Stack used - React.js,  Javascript, material UI, Mook Server, React-Redux. Done in collaboration with 4 members, under a week."
               link="https://github.com/pallav1998/hotwire_clone"
               linkmedium="https://medium.com/@jain.pallav1998/project-on-hotwire-clone-95339d2e5e41"
               linklive="https://hotwire.netlify.app/"
@@ -40,7 +40,7 @@ function Projects() {
             <ProjectCard
               imgPath={MonsterIndia}
               title="Monsterindia"
-              description="Monster India, India's leading online career and recruitment resource which provides jobs to jobseekers across industry. Trying to Developed a look alike of it, Focusing mainly on searching for Jobs based on city. Done in collaboration with 3 members, under a week."
+              description="Monster India, India's leading online career and recruitment resource which provides jobs to jobseekers across industry. Trying to Developed a look alike of it, Focusing mainly on searching for Jobs based on city. Tech Stack used - React.js, Mook Server, Javascript. Done in collaboration with 3 members, under a week."
               sitelink="https://www.monsterindia.com/"
               link="https://github.com/pallav1998/Monster_Project"
               linkmedium="#"
@@ -52,7 +52,7 @@ function Projects() {
             <ProjectCard
               imgPath={Ajio}
               title="Ajio"
-              description="AJIO, a fashion and lifestyle brand, that offers ultimate fashion destination for styles. Trying to Developed a look alike of it, Focusing mainly on searching for products according to categories, and buying any of the particular product. Done in collaboration with 3 members, under a week."
+              description="AJIO, a fashion and lifestyle brand, that offers ultimate fashion destination for styles. Trying to Developed a look alike of it, Focusing mainly on searching for products according to categories, and buying any of the particular product. Tech Stack used - Javascript, HTML, CSS. Done in collaboration with 3 members, under a week."
               link="https://github.com/vshubhams/Ajio-clone"
               linkmedium=""
               linklive="https://ajioproject.netlify.app/"
