@@ -49,11 +49,11 @@ function Home2() {
               <br />
               <br />I have been developing Web Apps for over
               <i>
-                <b className="purple">&nbsp; 6 months</b>
+                <b className="purple">&nbsp;1 Year</b>
               </i>
               . Well versed in coding using
               <i>
-                <b className="purple">&nbsp; Javascript, React &nbsp;</b>
+                <b className="purple">&nbsp; React, Javascript &nbsp;</b>
               </i>
               and its frameworks
               <br />
@@ -99,7 +99,6 @@ function Home2() {
               <li className="social-icons">
                 <a
                   href="https://github.com/pallav1998"
-                  target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
                 >
@@ -109,7 +108,6 @@ function Home2() {
               <li className="social-icons">
                 <a
                   href="https://twitter.com/jain_pallav1998"
-                  target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
                 >
@@ -119,7 +117,6 @@ function Home2() {
               <li className="social-icons">
                 <a
                   href="https://www.linkedin.com/in/pj1998/"
-                  target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
                 >

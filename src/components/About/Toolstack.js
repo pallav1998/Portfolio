@@ -1,6 +1,13 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
-import { SiVisualstudiocode, SiPostman, SiNetlify } from "react-icons/si";
+import {
+  SiVisualstudiocode,
+  SiPostman,
+  SiNetlify,
+  SiJirasoftware,
+  SiNotion,
+} from "react-icons/si";
+import { DiGit } from "react-icons/di";
 
 function Toolstack() {
   return (
@@ -18,6 +25,49 @@ function Toolstack() {
           Visual Studio
         </strong>
       </Col>
+
+      <Col xs={4} md={2} className="tech-icons">
+        <SiJirasoftware />
+        <strong
+          className="purple"
+          style={{
+            fontSize: "20px",
+            display: "flex",
+            justifyContent: "center",
+          }}
+        >
+          Jira Software
+        </strong>
+      </Col>
+
+      <Col xs={4} md={2} className="tech-icons">
+        <SiNotion />
+        <strong
+          className="purple"
+          style={{
+            fontSize: "20px",
+            display: "flex",
+            justifyContent: "center",
+          }}
+        >
+          Noion
+        </strong>
+      </Col>
+
+      <Col xs={4} md={2} className="tech-icons">
+        <DiGit />
+        <strong
+          className="purple"
+          style={{
+            fontSize: "20px",
+            display: "flex",
+            justifyContent: "center",
+          }}
+        >
+          Git
+        </strong>
+      </Col>
+
       <Col xs={4} md={2} className="tech-icons">
         <SiPostman />
         <strong
@@ -31,6 +81,7 @@ function Toolstack() {
           Postman
         </strong>
       </Col>
+
       <Col xs={4} md={2} className="tech-icons">
         <SiNetlify />
         <strong

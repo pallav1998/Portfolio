@@ -9,8 +9,9 @@ function AboutCard() {
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Pallav Jain </span>
-            from <span className="purple"> Muzaffarnagar, Uttar Pradesh, India.</span>
-            <br /> I have completed my graduation in Electronics and Communication Engineering.
+            from <span className="purple">Uttar Pradesh, India.</span>
+            <br /> I have completed my graduation in Electronics and
+            Communication Engineering.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!

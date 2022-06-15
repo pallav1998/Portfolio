@@ -34,7 +34,6 @@ function ProjectCards(props) {
             <li className="social-icons">
               <a
                 href={props.link}
-                target="_blank"
                 rel="noreferrer"
                 className="icon-colour  home-social-icons"
               >
@@ -44,7 +43,6 @@ function ProjectCards(props) {
             <li className="social-icons">
               <a
                 href={props.linkmedium}
-                target="_blank"
                 rel="noreferrer"
                 className="icon-colour  home-social-icons"
               >
@@ -54,7 +52,6 @@ function ProjectCards(props) {
             <li className="social-icons">
               <a
                 href={props.linklive}
-                target="_blank"
                 rel="noreferrer"
                 className="icon-colour  home-social-icons"
               >
