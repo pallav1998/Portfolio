@@ -1,6 +1,6 @@
 # My Portfolio
 
-### To visit our website [Click here](https://pallavportfolio.netlify.app/)
+### To visit our website [Click here](https://pallavportfolio.vercel.app/)
 
 ### Technologies used:
 1. React 
